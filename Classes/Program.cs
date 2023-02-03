@@ -23,11 +23,9 @@ namespace MyClass
             y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double p = (x.A + x.B + x.C) / 2.0;
-            double AreaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
+            double AreaX = x.Area();
 
-            p = (y.A + y.B + y.C) / 2.0;
-            double AreaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
+            double AreaY = y.Area(); 
 
             Console.WriteLine("Área de x = " + AreaX.ToString("F4", CultureInfo.InvariantCulture));
             Console.WriteLine("Área de y = " + AreaY.ToString("F4", CultureInfo.InvariantCulture));

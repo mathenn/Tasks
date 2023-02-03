@@ -1,0 +1,15 @@
+C:\CSharp\ClassPeople\bin\Debug\net6.0\ClassPeople.exe
+C:\CSharp\ClassPeople\bin\Debug\net6.0\ClassPeople.deps.json
+C:\CSharp\ClassPeople\bin\Debug\net6.0\ClassPeople.runtimeconfig.json
+C:\CSharp\ClassPeople\bin\Debug\net6.0\ClassPeople.dll
+C:\CSharp\ClassPeople\bin\Debug\net6.0\ClassPeople.pdb
+C:\CSharp\ClassPeople\obj\Debug\net6.0\ClassPeople.csproj.AssemblyReference.cache
+C:\CSharp\ClassPeople\obj\Debug\net6.0\ClassPeople.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\ClassPeople\obj\Debug\net6.0\ClassPeople.AssemblyInfoInputs.cache
+C:\CSharp\ClassPeople\obj\Debug\net6.0\ClassPeople.AssemblyInfo.cs
+C:\CSharp\ClassPeople\obj\Debug\net6.0\ClassPeople.csproj.CoreCompileInputs.cache
+C:\CSharp\ClassPeople\obj\Debug\net6.0\ClassPeople.dll
+C:\CSharp\ClassPeople\obj\Debug\net6.0\refint\ClassPeople.dll
+C:\CSharp\ClassPeople\obj\Debug\net6.0\ClassPeople.pdb
+C:\CSharp\ClassPeople\obj\Debug\net6.0\ClassPeople.genruntimeconfig.cache
+C:\CSharp\ClassPeople\obj\Debug\net6.0\ref\ClassPeople.dll

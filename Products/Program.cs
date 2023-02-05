@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Globalization;
+using System.Threading;
 
 namespace Tasks
 {
@@ -19,7 +20,11 @@ namespace Tasks
             product1.Quantity = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.Write("Product data:" + product1);
+            Console.WriteLine("");
 
+            Console.WriteLine("Exiting app...");
+            Thread.Sleep(2000);
+            Environment.Exit(0);
 
         }
     }

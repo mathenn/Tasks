@@ -16,13 +16,12 @@ namespace Tasks
         public override string ToString()
         {
             return Name
-            + ", $ "
+            + ", $"
             + Price.ToString("F2", CultureInfo.InvariantCulture)
-            + ", "
+            +", "
             + Quantity.ToString("F2", CultureInfo.InvariantCulture)
             +" units, total: $"
             + TotalInStock().ToString("F2", CultureInfo.InvariantCulture);
-
         }
     }
 }

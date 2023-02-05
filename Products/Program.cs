@@ -10,22 +10,25 @@ namespace Tasks
         {
             Product product1 = new Product();
 
-            Console.WriteLine("Enter product data:");
+            Console.WriteLine("Enter product data: ");
 
-            Console.Write("Name:");
+
+            Console.Write("Name: ");
             product1.Name = Console.ReadLine();
-            Console.Write("Price:");
+
+            Console.Write("Price: ");
             product1.Price = double.Parse(Console.ReadLine());
-            Console.Write("Quantity in stock:");
+
+            Console.Write("Quantity: ");
             product1.Quantity = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.Write("Product data:" + product1);
             Console.WriteLine("");
 
+            Console.WriteLine("Product data:" + product1);
+            Console.WriteLine("");
             Console.WriteLine("Exiting app...");
             Thread.Sleep(2000);
             Environment.Exit(0);
-
         }
     }
 }

@@ -37,6 +37,7 @@ namespace Tasks
             Console.Write("Enter the number of products to be removed:");
             int removeqnt = int.Parse(Console.ReadLine());
             product1.RemoveProduct(removeqnt);
+            Console.WriteLine("");
 
             Console.WriteLine("Updated data:" + product1);
             Console.WriteLine("");

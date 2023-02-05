@@ -15,7 +15,7 @@ namespace Tasks
 
         public void AddProduct(int quantity)
         {
-            Quantity = Quantity + quantity;
+            Quantity += quantity;
         }
 
         public void RemoveProduct(int quantity)

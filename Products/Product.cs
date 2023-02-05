@@ -13,6 +13,16 @@ namespace Tasks
             return Price * Quantity;
         }
 
+        public void AddProduct(int quantity)
+        {
+            Quantity = Quantity + quantity;
+        }
+
+        public void RemoveProduct(int quantity)
+        {
+            Quantity -= quantity;
+        }
+
         public override string ToString()
         {
             return Name

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Task_table_3
+namespace Tasks
 {
     class Program
     {

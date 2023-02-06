@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace Tasks
+namespace Task_table_3
 {
     internal class Rectangle
     {

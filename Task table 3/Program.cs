@@ -7,7 +7,7 @@ namespace Task_table_3
     {
         static void Main(string[] args)
         {
-            Menu();
+            ExchangeCurrency();
         }
 
         static void Menu()
@@ -94,6 +94,23 @@ namespace Task_table_3
                 Console.WriteLine("Disapproved!");
                 Console.WriteLine($"Missing {student1.PointsLeft().ToString("F2", CultureInfo.InvariantCulture)} points.");
             }
+        }
+
+        static void ExchangeCurrency()
+        {
+            CurrencyConvert currencyDollar = new CurrencyConvert();
+
+            Console.WriteLine("What is the dollar exchange rate?");
+            currencyDollar.DollarQuotation = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine("");
+
+            Console.WriteLine("How many dollars are you going to buy?");
+            currencyDollar.BuyDollars = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine("");
+
+            Console.WriteLine("amount to be paid in reais: $" + currencyDollar.CurrencyConverter().ToString("F2", CultureInfo.InvariantCulture));
+
+
         }
     }
 }

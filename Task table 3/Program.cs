@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Globalization;
+using System.Runtime.CompilerServices;
+using System.Threading;
 
 namespace Task_table_3
 {
@@ -103,16 +105,52 @@ namespace Task_table_3
             CurrencyConvert currencyDollar = new CurrencyConvert();
 
             Console.WriteLine("What is the dollar exchange rate?");
+            Console.WriteLine("");
             currencyDollar.DollarQuotation = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.WriteLine("");
 
             Console.WriteLine("How many dollars are you going to buy?");
+            Console.WriteLine("");
             currencyDollar.BuyDollars = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.WriteLine("");
 
             Console.WriteLine("amount to be paid in reais: $" + currencyDollar.CurrencyConverter().ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("");
+            Console.WriteLine("Would you like to do another currency conversion? Type 'Y' for yes or 'N' for no.");
+            Console.WriteLine("");
 
+            char res = char.Parse(Console.ReadLine().ToUpper());
+            Console.WriteLine("");
 
+            if (res == 'Y')
+            {
+                ExchangeCurrency();
+            } else
+            {
+                Console.WriteLine("Would you like to return to menu? Type 'Y' for return or 'N' for exit the application.");
+                Console.WriteLine("");
+
+                char response = char.Parse(Console.ReadLine().ToUpper());
+                if (response == 'Y')
+                {
+                    Console.WriteLine("");
+                    Console.WriteLine("Going back to the menu...");
+                    Thread.Sleep(2000);
+                    Menu();
+                } else
+                {
+                    ExitApp();
+                }
+            }
+
+        }
+        
+        static void ExitApp()
+        {
+            Console.WriteLine("");
+            Console.WriteLine("Exiting the application... :(");
+            Thread.Sleep(2200);
+            Environment.Exit(0);
         }
     }
 }

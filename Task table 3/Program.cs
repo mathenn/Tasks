@@ -7,7 +7,7 @@ namespace Task_table_3
     {
         static void Main(string[] args)
         {
-            ExchangeCurrency();
+            Menu();
         }
 
         static void Menu()
@@ -16,6 +16,7 @@ namespace Task_table_3
             Console.WriteLine("0 - Rectangle area, perimeter and diagonal");
             Console.WriteLine("1 - Employee data");
             Console.WriteLine("2 - Student information");
+            Console.WriteLine("3 - Currency converter");
 
             short res = short.Parse(Console.ReadLine());
 
@@ -24,6 +25,7 @@ namespace Task_table_3
                 case 0: Rectangle(); break;
                 case 1: EmployeeData(); break;
                 case 2: StudentInfo(); break;
+                case 3: ExchangeCurrency(); break;
                 default: Menu(); break;
             }
         }

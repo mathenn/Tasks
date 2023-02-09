@@ -93,11 +93,42 @@ namespace Task_table_3
             if (student1.Approved())
             {
                 Console.WriteLine("Approved!");
+                Console.WriteLine("");
             } else
             {
                 Console.WriteLine("Disapproved!");
                 Console.WriteLine($"Missing {student1.PointsLeft().ToString("F2", CultureInfo.InvariantCulture)} points.");
+                Console.WriteLine("");
             }
+            Console.WriteLine("Would you like to do another grade calculation? Type 'Y' for yes or 'N' for no.");
+            Console.WriteLine("");
+
+            char res = char.Parse(Console.ReadLine().ToUpper());
+            Console.WriteLine("");
+
+            if (res == 'Y')
+            {
+                StudentInfo();
+            }
+            else
+            {
+                Console.WriteLine("Would you like to return to menu? Type 'Y' for return or 'N' for exit the application.");
+                Console.WriteLine("");
+
+                char response = char.Parse(Console.ReadLine().ToUpper());
+                if (response == 'Y')
+                {
+                    Console.WriteLine("");
+                    Console.WriteLine("Going back to the menu...");
+                    Thread.Sleep(2000);
+                    Menu();
+                }
+                else
+                {
+                    ExitApp();
+                }
+            }
+
         }
 
         static void ExchangeCurrency()

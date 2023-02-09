@@ -15,10 +15,12 @@ namespace Task_table_3
         static void Menu()
         {
             Console.WriteLine("Select the function you want to run: ");
+            Console.WriteLine("");
             Console.WriteLine("0 - Rectangle area, perimeter and diagonal");
             Console.WriteLine("1 - Employee data");
             Console.WriteLine("2 - Student information");
             Console.WriteLine("3 - Currency converter");
+            Console.WriteLine("");
 
             short res = short.Parse(Console.ReadLine());
 
@@ -36,15 +38,51 @@ namespace Task_table_3
         {
             Rectangle rectangle = new Rectangle();
 
+            Console.WriteLine("");
             Console.WriteLine("Enter the width value:");
+            Console.WriteLine("");
             rectangle.Width = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
+            Console.WriteLine("");
             Console.WriteLine("Enter the height value:");
+            Console.WriteLine("");
             rectangle.Height = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
+            Console.WriteLine("");
             Console.WriteLine("Area = " + rectangle.Area().ToString("F2", CultureInfo.InvariantCulture));
             Console.WriteLine("Perimeter = " + rectangle.Perimeter().ToString("F2", CultureInfo.InvariantCulture));
             Console.WriteLine("Diagonal = " + rectangle.Diagonal().ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("");
+
+            Console.WriteLine("Would you like to do a new rectangle calculation? Type 'Y' for yes or 'N' for no.");
+            Console.WriteLine("");
+
+            char res = char.Parse(Console.ReadLine().ToUpper());
+            Console.WriteLine("");
+
+            if (res == 'Y')
+            {
+                Rectangle();
+            }
+            else
+            {
+                Console.WriteLine("Would you like to return to menu? Type 'Y' for return or 'N' for exit the application.");
+                Console.WriteLine("");
+
+                char response = char.Parse(Console.ReadLine().ToUpper());
+                if (response == 'Y')
+                {
+                    Console.WriteLine("");
+                    Console.WriteLine("Going back to the menu...");
+                    Console.WriteLine("");
+                    Thread.Sleep(2000);
+                    Menu();
+                }
+                else
+                {
+                    ExitApp();
+                }
+            }
         }
 
         static void EmployeeData()
@@ -67,11 +105,43 @@ namespace Task_table_3
             Console.WriteLine("");
 
             Console.WriteLine("Type a percentage to increase salary:");
+            Console.WriteLine("");
             double percent = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             emp1.IncreaseSalary(percent);
             Console.WriteLine("");
 
             Console.WriteLine($"Updated employee data: {emp1}");
+            Console.WriteLine("");
+
+            Console.WriteLine("Would you like to re-analyze employee data? Type 'Y' for yes or 'N' for no.");
+            Console.WriteLine("");
+
+            char res = char.Parse(Console.ReadLine().ToUpper());
+            Console.WriteLine("");
+
+            if (res == 'Y')
+            {
+                EmployeeData();
+            }
+            else
+            {
+                Console.WriteLine("Would you like to return to menu? Type 'Y' for return or 'N' for exit the application.");
+                Console.WriteLine("");
+
+                char response = char.Parse(Console.ReadLine().ToUpper());
+                if (response == 'Y')
+                {
+                    Console.WriteLine("");
+                    Console.WriteLine("Going back to the menu...");
+                    Console.WriteLine("");
+                    Thread.Sleep(2000);
+                    Menu();
+                }
+                else
+                {
+                    ExitApp();
+                }
+            }
 
         }
 
@@ -100,6 +170,7 @@ namespace Task_table_3
                 Console.WriteLine($"Missing {student1.PointsLeft().ToString("F2", CultureInfo.InvariantCulture)} points.");
                 Console.WriteLine("");
             }
+
             Console.WriteLine("Would you like to do another grade calculation? Type 'Y' for yes or 'N' for no.");
             Console.WriteLine("");
 
@@ -120,6 +191,7 @@ namespace Task_table_3
                 {
                     Console.WriteLine("");
                     Console.WriteLine("Going back to the menu...");
+                    Console.WriteLine("");
                     Thread.Sleep(2000);
                     Menu();
                 }
@@ -166,6 +238,7 @@ namespace Task_table_3
                 {
                     Console.WriteLine("");
                     Console.WriteLine("Going back to the menu...");
+                    Console.WriteLine("");
                     Thread.Sleep(2000);
                     Menu();
                 } else

@@ -1,0 +1,15 @@
+C:\CSharp\Tasks\Vectors\bin\Debug\net6.0\Vectors.exe
+C:\CSharp\Tasks\Vectors\bin\Debug\net6.0\Vectors.deps.json
+C:\CSharp\Tasks\Vectors\bin\Debug\net6.0\Vectors.runtimeconfig.json
+C:\CSharp\Tasks\Vectors\bin\Debug\net6.0\Vectors.dll
+C:\CSharp\Tasks\Vectors\bin\Debug\net6.0\Vectors.pdb
+C:\CSharp\Tasks\Vectors\obj\Debug\net6.0\Vectors.csproj.AssemblyReference.cache
+C:\CSharp\Tasks\Vectors\obj\Debug\net6.0\Vectors.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Tasks\Vectors\obj\Debug\net6.0\Vectors.AssemblyInfoInputs.cache
+C:\CSharp\Tasks\Vectors\obj\Debug\net6.0\Vectors.AssemblyInfo.cs
+C:\CSharp\Tasks\Vectors\obj\Debug\net6.0\Vectors.csproj.CoreCompileInputs.cache
+C:\CSharp\Tasks\Vectors\obj\Debug\net6.0\Vectors.dll
+C:\CSharp\Tasks\Vectors\obj\Debug\net6.0\refint\Vectors.dll
+C:\CSharp\Tasks\Vectors\obj\Debug\net6.0\Vectors.pdb
+C:\CSharp\Tasks\Vectors\obj\Debug\net6.0\Vectors.genruntimeconfig.cache
+C:\CSharp\Tasks\Vectors\obj\Debug\net6.0\ref\Vectors.dll

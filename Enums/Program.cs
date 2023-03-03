@@ -17,9 +17,12 @@ namespace MyEnum
 
             Console.WriteLine(order);
 
+
+            // Enum to string //
             string txt = OrderStatus.PendingPayment.ToString();
             Console.WriteLine(txt);
 
+            // String to enum //
             OrderStatus os = Enum.Parse<OrderStatus>("Delivered");
             Console.WriteLine(os);
         }

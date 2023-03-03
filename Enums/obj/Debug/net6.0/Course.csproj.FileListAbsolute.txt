@@ -1,0 +1,15 @@
+C:\CSharp\Tasks\Enums\bin\Debug\net6.0\Course.exe
+C:\CSharp\Tasks\Enums\bin\Debug\net6.0\Course.deps.json
+C:\CSharp\Tasks\Enums\bin\Debug\net6.0\Course.runtimeconfig.json
+C:\CSharp\Tasks\Enums\bin\Debug\net6.0\Course.dll
+C:\CSharp\Tasks\Enums\bin\Debug\net6.0\Course.pdb
+C:\CSharp\Tasks\Enums\obj\Debug\net6.0\Course.csproj.AssemblyReference.cache
+C:\CSharp\Tasks\Enums\obj\Debug\net6.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Tasks\Enums\obj\Debug\net6.0\Course.AssemblyInfoInputs.cache
+C:\CSharp\Tasks\Enums\obj\Debug\net6.0\Course.AssemblyInfo.cs
+C:\CSharp\Tasks\Enums\obj\Debug\net6.0\Course.csproj.CoreCompileInputs.cache
+C:\CSharp\Tasks\Enums\obj\Debug\net6.0\Course.dll
+C:\CSharp\Tasks\Enums\obj\Debug\net6.0\refint\Course.dll
+C:\CSharp\Tasks\Enums\obj\Debug\net6.0\Course.pdb
+C:\CSharp\Tasks\Enums\obj\Debug\net6.0\Course.genruntimeconfig.cache
+C:\CSharp\Tasks\Enums\obj\Debug\net6.0\ref\Course.dll

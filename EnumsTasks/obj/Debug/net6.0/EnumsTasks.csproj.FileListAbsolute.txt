@@ -1,0 +1,15 @@
+C:\CSharp\Tasks\EnumsTasks\bin\Debug\net6.0\EnumsTasks.exe
+C:\CSharp\Tasks\EnumsTasks\bin\Debug\net6.0\EnumsTasks.deps.json
+C:\CSharp\Tasks\EnumsTasks\bin\Debug\net6.0\EnumsTasks.runtimeconfig.json
+C:\CSharp\Tasks\EnumsTasks\bin\Debug\net6.0\EnumsTasks.dll
+C:\CSharp\Tasks\EnumsTasks\bin\Debug\net6.0\EnumsTasks.pdb
+C:\CSharp\Tasks\EnumsTasks\obj\Debug\net6.0\EnumsTasks.csproj.AssemblyReference.cache
+C:\CSharp\Tasks\EnumsTasks\obj\Debug\net6.0\EnumsTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Tasks\EnumsTasks\obj\Debug\net6.0\EnumsTasks.AssemblyInfoInputs.cache
+C:\CSharp\Tasks\EnumsTasks\obj\Debug\net6.0\EnumsTasks.AssemblyInfo.cs
+C:\CSharp\Tasks\EnumsTasks\obj\Debug\net6.0\EnumsTasks.csproj.CoreCompileInputs.cache
+C:\CSharp\Tasks\EnumsTasks\obj\Debug\net6.0\EnumsTasks.dll
+C:\CSharp\Tasks\EnumsTasks\obj\Debug\net6.0\refint\EnumsTasks.dll
+C:\CSharp\Tasks\EnumsTasks\obj\Debug\net6.0\EnumsTasks.pdb
+C:\CSharp\Tasks\EnumsTasks\obj\Debug\net6.0\EnumsTasks.genruntimeconfig.cache
+C:\CSharp\Tasks\EnumsTasks\obj\Debug\net6.0\ref\EnumsTasks.dll

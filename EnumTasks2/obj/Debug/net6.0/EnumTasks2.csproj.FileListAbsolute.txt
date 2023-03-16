@@ -1,0 +1,15 @@
+C:\CSharp\Tasks\EnumTasks2\bin\Debug\net6.0\EnumTasks2.exe
+C:\CSharp\Tasks\EnumTasks2\bin\Debug\net6.0\EnumTasks2.deps.json
+C:\CSharp\Tasks\EnumTasks2\bin\Debug\net6.0\EnumTasks2.runtimeconfig.json
+C:\CSharp\Tasks\EnumTasks2\bin\Debug\net6.0\EnumTasks2.dll
+C:\CSharp\Tasks\EnumTasks2\bin\Debug\net6.0\EnumTasks2.pdb
+C:\CSharp\Tasks\EnumTasks2\obj\Debug\net6.0\EnumTasks2.csproj.AssemblyReference.cache
+C:\CSharp\Tasks\EnumTasks2\obj\Debug\net6.0\EnumTasks2.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Tasks\EnumTasks2\obj\Debug\net6.0\EnumTasks2.AssemblyInfoInputs.cache
+C:\CSharp\Tasks\EnumTasks2\obj\Debug\net6.0\EnumTasks2.AssemblyInfo.cs
+C:\CSharp\Tasks\EnumTasks2\obj\Debug\net6.0\EnumTasks2.csproj.CoreCompileInputs.cache
+C:\CSharp\Tasks\EnumTasks2\obj\Debug\net6.0\EnumTasks2.dll
+C:\CSharp\Tasks\EnumTasks2\obj\Debug\net6.0\refint\EnumTasks2.dll
+C:\CSharp\Tasks\EnumTasks2\obj\Debug\net6.0\EnumTasks2.pdb
+C:\CSharp\Tasks\EnumTasks2\obj\Debug\net6.0\EnumTasks2.genruntimeconfig.cache
+C:\CSharp\Tasks\EnumTasks2\obj\Debug\net6.0\ref\EnumTasks2.dll

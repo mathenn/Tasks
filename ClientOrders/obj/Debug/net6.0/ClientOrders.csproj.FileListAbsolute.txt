@@ -1,0 +1,15 @@
+C:\CSharp\Tasks\ClientOrders\obj\Debug\net6.0\ClientOrders.csproj.AssemblyReference.cache
+C:\CSharp\Tasks\ClientOrders\obj\Debug\net6.0\ClientOrders.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Tasks\ClientOrders\obj\Debug\net6.0\ClientOrders.AssemblyInfoInputs.cache
+C:\CSharp\Tasks\ClientOrders\obj\Debug\net6.0\ClientOrders.AssemblyInfo.cs
+C:\CSharp\Tasks\ClientOrders\obj\Debug\net6.0\ClientOrders.csproj.CoreCompileInputs.cache
+C:\CSharp\Tasks\ClientOrders\bin\Debug\net6.0\ClientOrders.exe
+C:\CSharp\Tasks\ClientOrders\bin\Debug\net6.0\ClientOrders.deps.json
+C:\CSharp\Tasks\ClientOrders\bin\Debug\net6.0\ClientOrders.runtimeconfig.json
+C:\CSharp\Tasks\ClientOrders\bin\Debug\net6.0\ClientOrders.dll
+C:\CSharp\Tasks\ClientOrders\bin\Debug\net6.0\ClientOrders.pdb
+C:\CSharp\Tasks\ClientOrders\obj\Debug\net6.0\ClientOrders.dll
+C:\CSharp\Tasks\ClientOrders\obj\Debug\net6.0\refint\ClientOrders.dll
+C:\CSharp\Tasks\ClientOrders\obj\Debug\net6.0\ClientOrders.pdb
+C:\CSharp\Tasks\ClientOrders\obj\Debug\net6.0\ClientOrders.genruntimeconfig.cache
+C:\CSharp\Tasks\ClientOrders\obj\Debug\net6.0\ref\ClientOrders.dll

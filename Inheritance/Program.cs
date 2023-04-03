@@ -18,7 +18,7 @@ namespace Inheritance
             // DOWNCASTING
             BusinessAccount acc4 = (BusinessAccount)acc2;
 
-            if(acc3 is BusinessAccount)
+            if(acc3 is BusinessAccount) 
             {
                 BusinessAccount acc5 = (BusinessAccount)acc3;
                 acc5.Loan(200.0);

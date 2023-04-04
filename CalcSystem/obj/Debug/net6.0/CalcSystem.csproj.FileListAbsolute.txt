@@ -1,0 +1,15 @@
+C:\CSharp\Tasks\CalcSystem\bin\Debug\net6.0\CalcSystem.exe
+C:\CSharp\Tasks\CalcSystem\bin\Debug\net6.0\CalcSystem.deps.json
+C:\CSharp\Tasks\CalcSystem\bin\Debug\net6.0\CalcSystem.runtimeconfig.json
+C:\CSharp\Tasks\CalcSystem\bin\Debug\net6.0\CalcSystem.dll
+C:\CSharp\Tasks\CalcSystem\bin\Debug\net6.0\CalcSystem.pdb
+C:\CSharp\Tasks\CalcSystem\obj\Debug\net6.0\CalcSystem.csproj.AssemblyReference.cache
+C:\CSharp\Tasks\CalcSystem\obj\Debug\net6.0\CalcSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Tasks\CalcSystem\obj\Debug\net6.0\CalcSystem.AssemblyInfoInputs.cache
+C:\CSharp\Tasks\CalcSystem\obj\Debug\net6.0\CalcSystem.AssemblyInfo.cs
+C:\CSharp\Tasks\CalcSystem\obj\Debug\net6.0\CalcSystem.csproj.CoreCompileInputs.cache
+C:\CSharp\Tasks\CalcSystem\obj\Debug\net6.0\CalcSystem.dll
+C:\CSharp\Tasks\CalcSystem\obj\Debug\net6.0\refint\CalcSystem.dll
+C:\CSharp\Tasks\CalcSystem\obj\Debug\net6.0\CalcSystem.pdb
+C:\CSharp\Tasks\CalcSystem\obj\Debug\net6.0\CalcSystem.genruntimeconfig.cache
+C:\CSharp\Tasks\CalcSystem\obj\Debug\net6.0\ref\CalcSystem.dll

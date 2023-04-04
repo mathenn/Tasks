@@ -1,0 +1,15 @@
+C:\CSharp\Tasks\Radius\bin\Debug\net6.0\Radius.exe
+C:\CSharp\Tasks\Radius\bin\Debug\net6.0\Radius.deps.json
+C:\CSharp\Tasks\Radius\bin\Debug\net6.0\Radius.runtimeconfig.json
+C:\CSharp\Tasks\Radius\bin\Debug\net6.0\Radius.dll
+C:\CSharp\Tasks\Radius\bin\Debug\net6.0\Radius.pdb
+C:\CSharp\Tasks\Radius\obj\Debug\net6.0\Radius.csproj.AssemblyReference.cache
+C:\CSharp\Tasks\Radius\obj\Debug\net6.0\Radius.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Tasks\Radius\obj\Debug\net6.0\Radius.AssemblyInfoInputs.cache
+C:\CSharp\Tasks\Radius\obj\Debug\net6.0\Radius.AssemblyInfo.cs
+C:\CSharp\Tasks\Radius\obj\Debug\net6.0\Radius.csproj.CoreCompileInputs.cache
+C:\CSharp\Tasks\Radius\obj\Debug\net6.0\Radius.dll
+C:\CSharp\Tasks\Radius\obj\Debug\net6.0\refint\Radius.dll
+C:\CSharp\Tasks\Radius\obj\Debug\net6.0\Radius.pdb
+C:\CSharp\Tasks\Radius\obj\Debug\net6.0\Radius.genruntimeconfig.cache
+C:\CSharp\Tasks\Radius\obj\Debug\net6.0\ref\Radius.dll

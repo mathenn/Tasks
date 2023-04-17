@@ -1,0 +1,15 @@
+C:\CSharp\Tasks\Reservation\bin\Debug\net6.0\Reservation.exe
+C:\CSharp\Tasks\Reservation\bin\Debug\net6.0\Reservation.deps.json
+C:\CSharp\Tasks\Reservation\bin\Debug\net6.0\Reservation.runtimeconfig.json
+C:\CSharp\Tasks\Reservation\bin\Debug\net6.0\Reservation.dll
+C:\CSharp\Tasks\Reservation\bin\Debug\net6.0\Reservation.pdb
+C:\CSharp\Tasks\Reservation\obj\Debug\net6.0\Reservation.csproj.AssemblyReference.cache
+C:\CSharp\Tasks\Reservation\obj\Debug\net6.0\Reservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Tasks\Reservation\obj\Debug\net6.0\Reservation.AssemblyInfoInputs.cache
+C:\CSharp\Tasks\Reservation\obj\Debug\net6.0\Reservation.AssemblyInfo.cs
+C:\CSharp\Tasks\Reservation\obj\Debug\net6.0\Reservation.csproj.CoreCompileInputs.cache
+C:\CSharp\Tasks\Reservation\obj\Debug\net6.0\Reservation.dll
+C:\CSharp\Tasks\Reservation\obj\Debug\net6.0\refint\Reservation.dll
+C:\CSharp\Tasks\Reservation\obj\Debug\net6.0\Reservation.pdb
+C:\CSharp\Tasks\Reservation\obj\Debug\net6.0\Reservation.genruntimeconfig.cache
+C:\CSharp\Tasks\Reservation\obj\Debug\net6.0\ref\Reservation.dll

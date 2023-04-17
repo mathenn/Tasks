@@ -1,0 +1,15 @@
+C:\CSharp\Tasks\ExceptionTask\bin\Debug\net6.0\ExceptionTask.exe
+C:\CSharp\Tasks\ExceptionTask\bin\Debug\net6.0\ExceptionTask.deps.json
+C:\CSharp\Tasks\ExceptionTask\bin\Debug\net6.0\ExceptionTask.runtimeconfig.json
+C:\CSharp\Tasks\ExceptionTask\bin\Debug\net6.0\ExceptionTask.dll
+C:\CSharp\Tasks\ExceptionTask\bin\Debug\net6.0\ExceptionTask.pdb
+C:\CSharp\Tasks\ExceptionTask\obj\Debug\net6.0\ExceptionTask.csproj.AssemblyReference.cache
+C:\CSharp\Tasks\ExceptionTask\obj\Debug\net6.0\ExceptionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Tasks\ExceptionTask\obj\Debug\net6.0\ExceptionTask.AssemblyInfoInputs.cache
+C:\CSharp\Tasks\ExceptionTask\obj\Debug\net6.0\ExceptionTask.AssemblyInfo.cs
+C:\CSharp\Tasks\ExceptionTask\obj\Debug\net6.0\ExceptionTask.csproj.CoreCompileInputs.cache
+C:\CSharp\Tasks\ExceptionTask\obj\Debug\net6.0\ExceptionTask.dll
+C:\CSharp\Tasks\ExceptionTask\obj\Debug\net6.0\refint\ExceptionTask.dll
+C:\CSharp\Tasks\ExceptionTask\obj\Debug\net6.0\ExceptionTask.pdb
+C:\CSharp\Tasks\ExceptionTask\obj\Debug\net6.0\ExceptionTask.genruntimeconfig.cache
+C:\CSharp\Tasks\ExceptionTask\obj\Debug\net6.0\ref\ExceptionTask.dll

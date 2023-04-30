@@ -1,0 +1,15 @@
+C:\CSharp\Tasks\ContractProcess\bin\Debug\net6.0\ContractProcess.exe
+C:\CSharp\Tasks\ContractProcess\bin\Debug\net6.0\ContractProcess.deps.json
+C:\CSharp\Tasks\ContractProcess\bin\Debug\net6.0\ContractProcess.runtimeconfig.json
+C:\CSharp\Tasks\ContractProcess\bin\Debug\net6.0\ContractProcess.dll
+C:\CSharp\Tasks\ContractProcess\bin\Debug\net6.0\ContractProcess.pdb
+C:\CSharp\Tasks\ContractProcess\obj\Debug\net6.0\ContractProcess.csproj.AssemblyReference.cache
+C:\CSharp\Tasks\ContractProcess\obj\Debug\net6.0\ContractProcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Tasks\ContractProcess\obj\Debug\net6.0\ContractProcess.AssemblyInfoInputs.cache
+C:\CSharp\Tasks\ContractProcess\obj\Debug\net6.0\ContractProcess.AssemblyInfo.cs
+C:\CSharp\Tasks\ContractProcess\obj\Debug\net6.0\ContractProcess.csproj.CoreCompileInputs.cache
+C:\CSharp\Tasks\ContractProcess\obj\Debug\net6.0\ContractProcess.dll
+C:\CSharp\Tasks\ContractProcess\obj\Debug\net6.0\refint\ContractProcess.dll
+C:\CSharp\Tasks\ContractProcess\obj\Debug\net6.0\ContractProcess.pdb
+C:\CSharp\Tasks\ContractProcess\obj\Debug\net6.0\ContractProcess.genruntimeconfig.cache
+C:\CSharp\Tasks\ContractProcess\obj\Debug\net6.0\ref\ContractProcess.dll

@@ -1,0 +1,15 @@
+C:\CSharp\Tasks\CalculationService\bin\Debug\net6.0\CalculationService.exe
+C:\CSharp\Tasks\CalculationService\bin\Debug\net6.0\CalculationService.deps.json
+C:\CSharp\Tasks\CalculationService\bin\Debug\net6.0\CalculationService.runtimeconfig.json
+C:\CSharp\Tasks\CalculationService\bin\Debug\net6.0\CalculationService.dll
+C:\CSharp\Tasks\CalculationService\bin\Debug\net6.0\CalculationService.pdb
+C:\CSharp\Tasks\CalculationService\obj\Debug\net6.0\CalculationService.csproj.AssemblyReference.cache
+C:\CSharp\Tasks\CalculationService\obj\Debug\net6.0\CalculationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Tasks\CalculationService\obj\Debug\net6.0\CalculationService.AssemblyInfoInputs.cache
+C:\CSharp\Tasks\CalculationService\obj\Debug\net6.0\CalculationService.AssemblyInfo.cs
+C:\CSharp\Tasks\CalculationService\obj\Debug\net6.0\CalculationService.csproj.CoreCompileInputs.cache
+C:\CSharp\Tasks\CalculationService\obj\Debug\net6.0\CalculationService.dll
+C:\CSharp\Tasks\CalculationService\obj\Debug\net6.0\refint\CalculationService.dll
+C:\CSharp\Tasks\CalculationService\obj\Debug\net6.0\CalculationService.pdb
+C:\CSharp\Tasks\CalculationService\obj\Debug\net6.0\CalculationService.genruntimeconfig.cache
+C:\CSharp\Tasks\CalculationService\obj\Debug\net6.0\ref\CalculationService.dll

@@ -1,0 +1,15 @@
+C:\CSharp\Tasks\LogsSet\bin\Debug\net6.0\LogsSet.exe
+C:\CSharp\Tasks\LogsSet\bin\Debug\net6.0\LogsSet.deps.json
+C:\CSharp\Tasks\LogsSet\bin\Debug\net6.0\LogsSet.runtimeconfig.json
+C:\CSharp\Tasks\LogsSet\bin\Debug\net6.0\LogsSet.dll
+C:\CSharp\Tasks\LogsSet\bin\Debug\net6.0\LogsSet.pdb
+C:\CSharp\Tasks\LogsSet\obj\Debug\net6.0\LogsSet.csproj.AssemblyReference.cache
+C:\CSharp\Tasks\LogsSet\obj\Debug\net6.0\LogsSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Tasks\LogsSet\obj\Debug\net6.0\LogsSet.AssemblyInfoInputs.cache
+C:\CSharp\Tasks\LogsSet\obj\Debug\net6.0\LogsSet.AssemblyInfo.cs
+C:\CSharp\Tasks\LogsSet\obj\Debug\net6.0\LogsSet.csproj.CoreCompileInputs.cache
+C:\CSharp\Tasks\LogsSet\obj\Debug\net6.0\LogsSet.dll
+C:\CSharp\Tasks\LogsSet\obj\Debug\net6.0\refint\LogsSet.dll
+C:\CSharp\Tasks\LogsSet\obj\Debug\net6.0\LogsSet.pdb
+C:\CSharp\Tasks\LogsSet\obj\Debug\net6.0\LogsSet.genruntimeconfig.cache
+C:\CSharp\Tasks\LogsSet\obj\Debug\net6.0\ref\LogsSet.dll

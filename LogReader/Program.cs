@@ -32,7 +32,7 @@ namespace LogReader
             } 
             catch (IOException e)
             {
-                Console.WriteLine("Exception error: " + e.Message);
+                Console.WriteLine("Oops, we have an exception error: " + e.Message);
             }
         }
     }

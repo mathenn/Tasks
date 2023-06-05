@@ -1,0 +1,15 @@
+C:\CSharp\Tasks\Course-Linq\bin\Debug\net6.0\Course-Linq.exe
+C:\CSharp\Tasks\Course-Linq\bin\Debug\net6.0\Course-Linq.deps.json
+C:\CSharp\Tasks\Course-Linq\bin\Debug\net6.0\Course-Linq.runtimeconfig.json
+C:\CSharp\Tasks\Course-Linq\bin\Debug\net6.0\Course-Linq.dll
+C:\CSharp\Tasks\Course-Linq\bin\Debug\net6.0\Course-Linq.pdb
+C:\CSharp\Tasks\Course-Linq\obj\Debug\net6.0\Course-Linq.csproj.AssemblyReference.cache
+C:\CSharp\Tasks\Course-Linq\obj\Debug\net6.0\Course-Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Tasks\Course-Linq\obj\Debug\net6.0\Course-Linq.AssemblyInfoInputs.cache
+C:\CSharp\Tasks\Course-Linq\obj\Debug\net6.0\Course-Linq.AssemblyInfo.cs
+C:\CSharp\Tasks\Course-Linq\obj\Debug\net6.0\Course-Linq.csproj.CoreCompileInputs.cache
+C:\CSharp\Tasks\Course-Linq\obj\Debug\net6.0\Course-Linq.dll
+C:\CSharp\Tasks\Course-Linq\obj\Debug\net6.0\refint\Course-Linq.dll
+C:\CSharp\Tasks\Course-Linq\obj\Debug\net6.0\Course-Linq.pdb
+C:\CSharp\Tasks\Course-Linq\obj\Debug\net6.0\Course-Linq.genruntimeconfig.cache
+C:\CSharp\Tasks\Course-Linq\obj\Debug\net6.0\ref\Course-Linq.dll

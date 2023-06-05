@@ -1,0 +1,15 @@
+C:\CSharp\Tasks\LinqTest\bin\Debug\net6.0\LinqTest.exe
+C:\CSharp\Tasks\LinqTest\bin\Debug\net6.0\LinqTest.deps.json
+C:\CSharp\Tasks\LinqTest\bin\Debug\net6.0\LinqTest.runtimeconfig.json
+C:\CSharp\Tasks\LinqTest\bin\Debug\net6.0\LinqTest.dll
+C:\CSharp\Tasks\LinqTest\bin\Debug\net6.0\LinqTest.pdb
+C:\CSharp\Tasks\LinqTest\obj\Debug\net6.0\LinqTest.csproj.AssemblyReference.cache
+C:\CSharp\Tasks\LinqTest\obj\Debug\net6.0\LinqTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Tasks\LinqTest\obj\Debug\net6.0\LinqTest.AssemblyInfoInputs.cache
+C:\CSharp\Tasks\LinqTest\obj\Debug\net6.0\LinqTest.AssemblyInfo.cs
+C:\CSharp\Tasks\LinqTest\obj\Debug\net6.0\LinqTest.csproj.CoreCompileInputs.cache
+C:\CSharp\Tasks\LinqTest\obj\Debug\net6.0\LinqTest.dll
+C:\CSharp\Tasks\LinqTest\obj\Debug\net6.0\refint\LinqTest.dll
+C:\CSharp\Tasks\LinqTest\obj\Debug\net6.0\LinqTest.pdb
+C:\CSharp\Tasks\LinqTest\obj\Debug\net6.0\LinqTest.genruntimeconfig.cache
+C:\CSharp\Tasks\LinqTest\obj\Debug\net6.0\ref\LinqTest.dll
